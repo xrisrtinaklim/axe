@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ax
+* source:	https://sketchfab.com/3d-models/ax-9b331f3c2f2a4f92a96fb6b82a7177d4
+* author:	NikolaiZhuravlev (https://sketchfab.com/NikolaiZhuravlev)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ax" (https://sketchfab.com/3d-models/ax-9b331f3c2f2a4f92a96fb6b82a7177d4) by NikolaiZhuravlev (https://sketchfab.com/NikolaiZhuravlev) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
